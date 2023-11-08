@@ -1,1 +1,3 @@
 # Prediction-of-Driver-Quality-Using-Decision-Tree-Machine-Learning-Algorithm
+
+with economic development, more and more people use private vehicles for transportation. This increase in Traffic rate leads to the concern of traffic accidents and makes its prevention an important challenge. In this paper, the Decision Tree algorithm has been used to create a system that can use the risk factors and predict whether the drivers are competent enough to be safe or not. Experiment results show that the system is capable of predicting driver safety ratings with very high accuracy. So, it's very feasible to use a Decision Tree to create something of similar functionalities for practical purposes.
